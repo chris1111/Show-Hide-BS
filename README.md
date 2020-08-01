@@ -1,5 +1,7 @@
 ### Show Hide BS
 - Simple App for finding hidden files in Big Sur
+![Show Hide](https://user-images.githubusercontent.com/6248794/89104486-b4a77180-d3e7-11ea-9728-cf273cd0f3ec.png)
+
 
 ### Video
 
