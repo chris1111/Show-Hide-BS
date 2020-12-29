@@ -1,6 +1,7 @@
 ### Show Hide BS
 - Simple App for finding hidden files in Big Sur
-
+- Update 29 Dec 2020 Simply change TRUE for YES then FALSE for NO . 
+This will avoid issue typing any text after killall Finder.
 ![Show Hide](https://user-images.githubusercontent.com/6248794/89104486-b4a77180-d3e7-11ea-9728-cf273cd0f3ec.png)
 
 
