@@ -1,7 +1,6 @@
 ### Show Hide BS
 - Simple App for finding hidden files in Big Sur
-- Update 29 Dec 2020 Simply change TRUE for YES then FALSE for NO . 
-This will avoid issue typing any text after killall Finder.
+- Update 05 Mar 2022 adapted for Monterey 12, add Quit button
 
 ![Show Hide](https://user-images.githubusercontent.com/6248794/89104486-b4a77180-d3e7-11ea-9728-cf273cd0f3ec.png)
 
